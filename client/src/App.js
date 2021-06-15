@@ -6,7 +6,7 @@ import './App.css';
 // IMPORTS BELOW ARE FOR WEATHER APP 
 //import 'weather-icons/css/weather-icons.css';
 // IMPORTS ABOVE ARE FOR WEATHER APP ^
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+// import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import Footer from './footer'; //Include Footer
 // import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from './home';

@@ -1,6 +1,6 @@
 import React from 'react';
 
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+// import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import './footer.css'
 // import github from './assets/assets/githubicon.png';
 // import linkedin from './assets/assets/linkedinicon.png';

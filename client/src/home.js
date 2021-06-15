@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 // import React from 'React';
 import './home.css';
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+// import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 // IMPORTS BELOW ARE FOR WEATHER APP 
 // import Weather from './app_component/weather.component'
